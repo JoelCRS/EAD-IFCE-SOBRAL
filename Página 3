@@ -1,0 +1,262 @@
+<html>
+	<head>
+	  <meta charset="UTF-8">
+		<title>..:: Página 3 ::..</title>
+	</head>
+	<body>
+	
+</div><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:0px; margin-right:0px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+</div><div id="wrapper">
+
+	</div><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#006600; height: 160px; padding:0 0 0 0px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+	
+	 </div><div id="barra-identidade">
+    <div id="barra-brasil" style="background:#006600; height: 20px; padding:0 0 0 10px;display:block;">
+            <ul id="menu-barra-temp" style="list-style:none;">
+                    <li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li>
+                    <li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+            </ul>
+    </div>
+
+		<!--
+   		 	Aluno: Joel Carneiro R. Sousa 
+			PS: Conteudo abaixo do rodapé superior verde  :)
+		-->
+	
+		<center><img src="logoifce.png"/>
+		<center><h1> Geração de Energia Solar </center></h1>
+		<style>
+			.spaced-lines{
+			line-height: 1.5;
+			}
+			
+    			.custom-position1 {
+       			position: absolute;
+        		top: 250px;
+        		left: 40px;
+    			}
+
+			.custom-position2 {
+       			position: absolute;
+        		top: 350px;
+        		left: 40px;
+    			}
+
+			.custom-position3 {
+       			position: absolute;
+        		top: 620px;
+        		left: 40px;
+    			}
+			
+			.custom-position4 {
+       			position: absolute;
+        		top: 620px;
+        		left: 750px;
+    			}
+			
+			.custom-position5 {
+       			position: absolute;
+        		top: 620px;
+        		left: 970px;
+    			}
+
+			.custom-position6 {
+       			position: absolute;
+        		top: 620px;
+        		left: 650px;
+    			}
+			
+			.custom-position7 {
+       			position: absolute;
+        		top: 0px;
+        		left: 280px;
+    			}
+			
+			.custom-position8 {
+       			position: absolute;
+        		top: 960px;
+        		left: 648px;
+    			}
+			
+			.custom-position9 {
+       			position: absolute;
+        		top: 960px;
+        		left: 970px;
+    			}
+			
+			.custom-position10 {
+       			position: absolute;
+        		top: 1300px;
+        		left: 650px;
+    			}
+			
+			.custom-position11 {
+       			position: absolute;
+        		top: 1800px;
+        		left: 0px;
+    			}
+
+			.colored-box {
+      			width: 600px; 
+        		height: 280px; 
+        		background-color: YellowGreen;
+			margin-bottom: 20px;
+    			}
+
+			.colored-box2 {
+      			width: 600px; 
+        		height: 280px; 
+        		background-color: Wheat; 
+    			}
+			
+			.colored-box3 {
+      			width: 600px; 
+        		height: 300px; 
+        		background-color: MediumPurple; 
+    			}
+			
+			.colored-line {
+      			width: 1950px; 
+        		height: 30px; 
+        		background-color: Green; 
+    			}
+			
+			.red-image1{
+			width: 300px; 
+        		height: 200px;
+			}
+			
+			.red-image2{
+			width: 300px; 
+        		height: 300px;
+			}
+			
+			.container{
+			display: flex;
+			alin-item: center;		
+			}
+
+			.spacer {
+			margin-left: auto;
+			}
+			
+			.square {
+        		width: 280px;
+       			height: 300px;
+       			background-color: yellow;
+       			margin-right: 200px;
+         		}
+
+    			.square:last-child {
+        		margin-right: 0;
+    			}
+
+		</style>
+		
+			<!--
+   		 	Aluno: Joel Carneiro R. Sousa 
+			PS: Conteudo barra lateral esquerda  :)
+			-->
+
+		<div class="custom-position1">
+			     _________________	
+    			<h3> Página inicial</h3>
+		</div>
+		
+		<div class="custom-position2"> _________________ <br>
+								
+			<div class"spaced-lines">
+			<h4>                                      
+    			<p><a href="https://ifce.edu.br/sobral"> IFCE Campus Sobral </a><br></p>
+			<p><a href="http://a3p.mma.gov.br/">Agenda Ambiental da<br>Administação Pública</a><br></p>
+			<p><a href="https://brasil.un.org/pt-br/sdgs">Objetivos para o Desen-<br>volvimento Sustentável</a></p>
+
+			</div>
+		</div>
+		
+		<div class="custom-position3">
+			    _________________
+                            <p><h4>Coleta seletiva cidadã</p>
+			    <p>Ilhas ecológicas</p>
+			    <p>Áreas verdes</p>
+			    <p>Campanha de materiais<br> de escrita</p>
+			    <p>Destinação de resíduos<br> perigosos</p>
+			    <p>Consumo de água</p>
+			    <p>Projetos sustentáveis</p>
+	
+		</div>
+			
+			<!--
+   		 	Aluno: Joel Carneiro R. Sousa 
+			PS: Conteudo central  :)
+			-->
+
+
+		<div class="colored-box">
+ 			<h4>Caracteristica do sistema <br>fotovoltaico do IFCE Campus Sobral<br><br>
+
+			<img src="Paineis fotovoltaico ifce sobral.PNG" alt="placas do bloco didático" class="red-image1">
+		</div>
+
+		<div class="colored-box2">
+ 			<div class="custom-position4">  
+				<h3>Histórico
+			</div>
+			<div class="custom-position5">		
+				<h3>Redução de emissão de CO2 
+			</div>
+				<div class="custom-position6"> 
+					<img src="grafico.PNG" alt="grafico exemplo" class="red-image2">
+				</div)
+	
+		</div>
+
+			<div class="custom-position7">
+				<img src="grafico.PNG" alt="grafico exemplo" class="red-image2">
+			</div>
+
+	
+		</div>
+		
+		</div>
+			<div class="custom-position8">		
+				<div class="square"></div>
+			</div>
+
+			<div class="custom-position9">	
+				<div class="square"></div>
+			</div>
+		
+		
+		<div class="custom-position10"> 
+			<div class="colored-box3">  
+					<h3>Dúvidas e solicitações de dados
+				</div>
+
+			</div>
+		</div>
+
+
+		<div class="custom-position11"> 
+			<div class="colored-line">  
+				
+			</div>
+		</div>
+
+
+
+
+	</body>
+</html>
